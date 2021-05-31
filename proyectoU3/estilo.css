@@ -1,0 +1,25 @@
+body{
+ 	background-color: #FFEBCD;
+ }
+
+h1{
+	background-color: rgb(222,184,135);
+	border: 2px solid ;
+}
+
+}
+h2{
+	background-color:rgb(100,20,15);
+	font-size: 3;
+}
+
+h3{
+background-color: #B22222;
+font-size: 3;
+}
+
+h4{
+background-color: peru;
+	border: 2px #008000;
+	font-size: 5;
+}
